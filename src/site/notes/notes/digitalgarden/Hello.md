@@ -2,6 +2,6 @@
 {"dg-publish":true,"permalink":"/notes/digitalgarden/hello/","tags":["gardenEntry"]}
 ---
 
-hello, world.
+Welcome to Stoner's Digital Garden!
 
 [[notes/digitalgarden/Hello 1\|Hello 1]]
