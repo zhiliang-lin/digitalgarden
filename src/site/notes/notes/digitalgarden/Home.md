@@ -4,4 +4,4 @@
 
 # Welcome to Stoner's Digital Garden!
 
-[[notes/digitalgarden/s3_words\|s3_words]]
+
