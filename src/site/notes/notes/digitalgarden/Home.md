@@ -4,4 +4,4 @@
 
 # Welcome to Stoner's Digital Garden!
 
-[[notes/digitalgarden/Hello 1\|Hello 1]]
+[[notes/digitalgarden/s3_words\|s3_words]]
